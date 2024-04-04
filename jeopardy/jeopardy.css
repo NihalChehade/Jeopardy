@@ -1,0 +1,60 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+#btn-start {
+  width:125px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  border-style: solid;
+  border:none;
+  outline:none;
+  /* padding-left: 20px;
+  padding-right:20px;
+  
+  padding-bottom: 6px; */
+  color: white;
+  background-color: #8d2ab5;
+  border-radius: 8px;
+}
+
+.page-header {
+  font-size: 45px;
+  color: white;
+}
+body {
+  text-align: center;
+  background-color:#115ff4;
+}
+
+table, td, th {
+  border: 1px solid;
+  border-color: white;
+  color: white;
+}
+
+table {
+  margin: auto;
+  width:1000px;
+  height:600px;
+  margin-top: 20px;
+  border-collapse: collapse;
+  background-color: #060ce9;
+}
+
+img {
+  margin-top: 10px;
+  width:300px;
+  height:300px;
+
+}
+td{
+  width:166px;
+  height:100px;
+  height:30px;
+}
